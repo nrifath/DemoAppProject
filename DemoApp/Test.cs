@@ -8,5 +8,7 @@ namespace DemoApp
 {
     public class Test
     {
+      
+        private string name;
     }
 }
